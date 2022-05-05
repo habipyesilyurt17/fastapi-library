@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+pymongo[srv]
+passlib
+bcrypt
+python-jose
+python-multipart

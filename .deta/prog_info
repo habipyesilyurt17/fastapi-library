@@ -1,0 +1,1 @@
+{"id":"bf49e8c5-cf7b-43f3-a2f5-47b124c89073","space":22338,"runtime":"python3.9","name":"fastapi-library","path":"zd5tja","project":"a0l7f4j7","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","pymongo","pymongo[srv]","passlib","bcrypt","python-jose","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}
